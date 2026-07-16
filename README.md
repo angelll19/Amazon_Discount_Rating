@@ -1,6 +1,9 @@
 # Business Problem
 Amazon invests heavily in product discounts to attract customers and stimulate sales. However, while discounts can increase product appeal, they also reduce profit margins and require significant promotional investment. It is therefore important to determine whether these discounts effectively improve customer satisfaction or simply increase promotional costs without delivering the expected value.
 
+This analysis aims to assess the effectiveness of Amazon's discount strategy by examining the relationship between discount levels, customer ratings, and review behavior across product categories.
+
+
 # Objectives
 This dashboard evaluates the effectiveness of Amazon's discount strategy by analysing product discounts, customer ratings, and review behaviour across different product categories.
 
@@ -24,23 +27,24 @@ This dashboard evaluates the effectiveness of Amazon's discount strategy by anal
 
 # Discount and Customer Rating Analysis
 
-### How much is Amazon investing in discounts?
 ## 1. Overall Findings
+### How much is Amazon investing in discounts?
 - The overall average product discount is **46.68%**, indicating that discounting is widely used across Amazon products.
 This raises an important question:
 - **Are these discounts generating better customer outcomes?**
 
 ---
-### Where is the discount budget concentrated?
 ## 2. Discount Strategy by Category
+### Where is the discount budget concentrated?
 - Discounts vary significantly across categories
 - Product categories apply different discount strategies, with average discounts ranging from **0% to 57.5%**.
 - **Home Improvement (57.5%)** and **Computers & Accessories (53.2%)** receive the highest average discounts.
 - In contrast, **Office Products (12.4%)** and **Toys & Games (0%)** receive the lowest average discounts.
 
 ---
-### Are higher discounts improving customer satisfaction?
+
 ## 3. Relationship Between Discount and Customer Rating
+### Are higher discounts improving customer satisfaction?
 
 - Higher discounts do not necessarily correspond to higher customer ratings.
 - **Musical Instruments** and **Car & Motorbike** receive relatively high discounts (46% and 42%) but have the lowest average ratings (below **4.0**).
@@ -48,13 +52,11 @@ This raises an important question:
 - This suggests that increasing discount levels alone may not be sufficient to improve customer satisfaction.
 
 ---
-### Do review counts reflect customer satisfaction?
 ## 4. Relationship Between Reviews and Ratings
-
+### Do review counts reflect customer satisfaction?
 - A higher number of customer reviews does not always correspond to higher customer ratings.
-- Categories with many reviews, such as **Musical Instruments**, may still receive relatively low ratings.
-- Conversely, categories with fewer reviews, such as **Office Products**, can maintain high customer ratings.
-- Therefore, review volume should not be interpreted as the sole indicator of customer satisfaction.
+- Categories with large review volumes are not necessarily the highest-rated categories.
+- Customer engagement and customer satisfaction appear to be different dimensions.
 
 Insight: Review volume alone is insufficient to evaluate customer satisfaction and should be interpreted together with customer ratings.
 
