@@ -25,6 +25,16 @@ This dashboard evaluates the effectiveness of Amazon's discount strategy by anal
 - Power BI
 - Microsoft Excel
 
+
+## Key Takeaways
+
+- Average product discount is 46.68%.
+- Higher discounts do not consistently result in higher customer ratings.
+- Electronics, Home & Kitchen, and Computers & Accessories contain most high-discount, low-rating products.
+- Home & Kitchen dominates the list of discount outlier products.
+- Product quality and customer experience may be more important drivers of satisfaction than discount size.
+
+
 # Discount and Customer Rating Analysis
 
 ## 1. Overall Findings
