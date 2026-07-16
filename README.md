@@ -66,17 +66,14 @@ This raises an important question:
 ### Do review counts reflect customer satisfaction?
 - A higher number of customer reviews does not always correspond to higher customer ratings.
 - Categories with large review volumes are not necessarily the highest-rated categories.
-- Customer engagement and customer satisfaction appear to be different dimensions.
-
-Insight: Review volume alone is insufficient to evaluate customer satisfaction and should be interpreted together with customer ratings.
-
+- Customer review volume should not be used as a standalone indicator of customer satisfaction, as categories with high review counts do not necessarily achieve higher ratings.
 ---
 ### Which products are underperforming despite heavy discounts?
 ## 5. High-Discount, Low-Rating Products
 
 - Products with **above-category-average discounts** and **below-category-average ratings** were identified as potential discount outliers.
 - These products receive larger discounts than similar products within the same category but still fail to achieve satisfactory customer ratings.
-- This may indicate that promotional resources are **not generating the expected return**, as higher discounts do not translate into improved customer satisfaction.
+- This may indicate inefficient promotional spending, as larger discounts are not translating into proportionally higher customer satisfaction.
 
 ### Two possible explanations include:
 
